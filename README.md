@@ -20,7 +20,7 @@ I'm a recent data science graduate based in London. I'm passionate about data an
 ```markdown
 Languages:            [Python, R]
 Databases:            [MySQL, PostgreSQL]
-Deployment & CI/CD:   [AWS, Azure]
+Deployment & CI/CD:   [Azure]
 Version Control:      [Git]
 Others:               [Tableau, PowerBI]
 
