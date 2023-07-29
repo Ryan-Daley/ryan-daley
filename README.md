@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I'm a recent data science graduate based in London. I'm passionate about data analysis and machine Learning and I'm always eager to learn new technologies and collaborate on innovative projects.
+I'm a recent data science graduate based in London. I'm passionate about data analysis and machine Learning and I'm always eager to learn new technologies and collaborate on projects.
 
 - 🔭 I’m currently working on creating miniGPT as well as some other analytics/data science projects
 - 🌱 I’m currently trying to get to grips with large language models and natural language processing 
