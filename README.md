@@ -6,13 +6,12 @@
 
 ## 🌟 About Me
 
-I'm a recent data science graduate based in London. I'm passionate about data analysis and machine Learning and I'm always eager to learn new technologies and collaborate on projects.
+I'm a recent applied data science graduate based in London. I'm passionate about data analysis and machine Learning and I'm always eager to learn new technologies and collaborate on projects.
 
 - 🔭 I’m currently working on creating miniGPT as well as some other analytics/data science projects
-- 🌱 I’m currently trying to get to grips with large language models and natural language processing 
-- 👯 I’m looking to collaborate on anything you might want to 
+- 🌱 I’m currently getting to grips with large language models as a whole and finetuning them
 - 🤔 I’m looking for help with transitioning over from Windows to macOS
-- 📫 How to reach me: ryandaley74@gmail.com
+- 📫 How to reach me: ryandaley64@gmail.com
 - ⚡ Fun fact: I'm a semi-competent pianist
 
 ## 🛠️ Skills and Technologies
