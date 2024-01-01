@@ -8,9 +8,9 @@
 
 I'm a recent applied data science graduate based in London. I'm passionate about data analysis and machine Learning and I'm always eager to learn new technologies and collaborate on projects.
 
-- 🔭 I’m currently working on creating miniGPT as well as some other analytics/data science projects
-- 🌱 I’m currently getting to grips with large language models as a whole and finetuning them
-- 🤔 I’m looking for help with transitioning over from Windows to macOS
+- 🔭 Currently tinkering with various software and analytics/data science projects
+- 🌱 I’m getting to grips with large language models as a whole and fine tuning them
+- 🤔 AGI by 2025
 - 📫 How to reach me: ryandaley64@gmail.com
 - ⚡ Fun fact: I'm a semi-competent pianist
 
